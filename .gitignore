@@ -86,3 +86,6 @@ dmypy.json
 # Operating system files
 .DS_Store
 Thumbs.db
+
+# Project-specific output files
+output.csv
