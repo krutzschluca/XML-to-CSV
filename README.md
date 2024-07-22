@@ -20,7 +20,6 @@ The code is designed to be easily extendable to support additional storage solut
          This allows easy addition of new storage types without modifying the existing code.  
 - **Abstract Base Class**: The `Storage` class is an abstract base class defining the interface for storage solutions.  
          This ensures that all storage classes implement the required methods.
-- **Logging**: Used for error handling and logging messages. This makes the code more maintainable and easier to debug.
 
 ## Setup and Run
 
