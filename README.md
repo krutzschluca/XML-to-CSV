@@ -1,4 +1,4 @@
-# XML to CSV/SQLite Converter - EL30 / Senior Web Development - Eyad Saleh - Luca Krutzsch
+# XML to CSV Converter - EL30 / Senior Web Development - Eyad Saleh - Luca Krutzsch
 
 ## Description
 
